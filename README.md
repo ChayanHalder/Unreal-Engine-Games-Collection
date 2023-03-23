@@ -11,8 +11,6 @@
   <img src="/Media/JumpnRun/Attack_2.png" width="400" alt="Attack_2">
 </p>
 
-[Youtube](https://www.youtube.com/watch?v=ZaXDWqYNt40) 
-
 
 ## Asteroid Game 2D
 
@@ -23,7 +21,6 @@
   <img src="/Media/Asteroid/Gameplay_2.png" width="300" alt="Gameplay_2">
 </p>
 
-[Youtube](https://www.youtube.com/watch?v=l3BtDIzgb1s) 
 
 
 
@@ -35,7 +32,6 @@
   <img src="/Media/Stealth/Gameplay_2.png" width="400" alt="Gameplay_2">
 </p>
 
-[Youtube](https://www.youtube.com/watch?v=zMvyp1VcPuQ) 
 
                           
 
